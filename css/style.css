@@ -24,3 +24,13 @@ h1{
 .half-width img{
     width: 100%;
 }
+
+.top-banner{
+border: 1px solid rebeccapurple;
+  background-image: url("images/top-banner.png");
+}
+
+section{
+    height: 500PX;
+}
+
